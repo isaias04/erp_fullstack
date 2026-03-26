@@ -1,4 +1,4 @@
-const API_URL = 'https://erp-fullstack-itok.onrender.com';
+const API_URL = 'https://erp-fullstack-itok.onrender.com/api';
 
 const handleResponse = async (response) => {
     if (!response.ok) {
